@@ -24,7 +24,7 @@ This is a simple Flask application that demonstrates how to create a contact for
 
 python app.py
 
-Open your web browser and visit `http://localhost:5000` to view the application.
+Open your web browser and visit `http://127.0.0.1:5000` to view the application.
 
 ## Usage
 
